@@ -1,1 +1,1 @@
-# simple-ssrm
+An end-to-end application using the MERN stack
